@@ -1,0 +1,27 @@
+
+/* CSS Document */
+@font-face
+
+{
+	font-family:Dogtown;
+	src:url("Font/Dogtown-Two/Dogtown-Two.ttf");
+}
+	
+@font-face
+{
+	font-family:Dogtown;
+	src:url("Font/Dogtown-Two/Dogtown-Two.woff");
+}
+@font-face
+{
+	font-family:Dogtown;
+	src:url("Font/Dogtown-Two/Dogtown-Two.otf");
+}
+#TITLE
+{
+	font-family:Dogtown;
+	}
+	#CONTENT
+	{
+		font-family:dogtown;
+		}
